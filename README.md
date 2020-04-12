@@ -1,5 +1,5 @@
 # CS 100 Programming Project
-A. Andrew Lung (alung004@ucr.edu), Shareriar Malik (shaheriarm@gmail.com), Sky Wu (swu186@ucr.edu)
+A. Andrew Lung (alung004@ucr.edu), Shaheriar Malik (smali032@ucr.edu), Sky Wu (swu186@ucr.edu)
 
 B. Project Organizer
 
